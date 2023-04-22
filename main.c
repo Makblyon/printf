@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #include <limits.h>
 #include <stdio.h>
-=======
->>>>>>> 99336bd5dfb709ee263df295018474354340a6cc
 #include "main.h"
 
 /**
